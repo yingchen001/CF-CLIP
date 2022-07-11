@@ -79,4 +79,4 @@ If you find CF-CLIP useful or inspiring, please consider citing:
 ```
 
 ## Acknowledgments
-This code borrows heavily from [StyleCLIP](https://github.com/orpatashnik/StyleCLIP) and [StyleGAN-NADA](https://github.com/rinongal/StyleGAN-nada), we apprecite the authors for sharing their codes.
+This code borrows heavily from [StyleCLIP](https://github.com/orpatashnik/StyleCLIP), [StyleGAN-NADA](https://github.com/rinongal/StyleGAN-nada) and [InfoNCE] (https://github.com/RElbers/info-nce-pytorch), we apprecite the authors for sharing their codes.
